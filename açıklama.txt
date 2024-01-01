@@ -1,0 +1,9 @@
+Kasım Adalan hocanın Udemy üzerinden vermiş olduğu eğitimlerinde yaptığı sözlük uygulamasını kendim için uyarladım ve geliştirdim. Geliştirmeye devam ediyorum.
+verileri kendime ait www.swiftogreniyorum.com sitesinden güncel olarak çekiyorum.
+buradaki kelimeleri aynı zamanda web sitem üzerinde de görebilirsiniz.
+evde, işte, her nerede olursa olsun kullanabildiğim, kelime ekleme güncelleme silme vardır.
+öğrendiğim butonuna basarak kelimeyi öğrendiğim kelimeler listesine ekliyorum. aynı zamanda bütün kelimeler listesinden de çıkarıyorum.
+rastgele kelimeler listesinde veritabanından rastgele 25 kelime getiriyor. Özellikle Türkçe anlamlarını gizledim.
+
+uygulamaya daha sonra kullanıcı adı ve şifresi ile girme ve tab bar ile menü seçeneklerini de yapmayı planlıyorum.
+
